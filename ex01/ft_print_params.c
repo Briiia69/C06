@@ -29,7 +29,7 @@ int	main(int ac, char *av[])
 {
 	int	i;
 
-	i = 0;
+	i = 1;
 	if (ac > 1)
 	{
 		while (av[i])
